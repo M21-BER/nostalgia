@@ -1,5 +1,5 @@
 {
-  "homepage": "http://musseberhanf7.github.io/nostalgia",
+  "homepage": "http://M21-BER.github.io/nostalgia",
   "name": "nostalgia",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
